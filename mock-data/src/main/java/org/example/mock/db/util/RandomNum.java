@@ -13,6 +13,7 @@ public class RandomNum {
         return start + new Random().nextInt(end - start + 1);
     }
 
+    //这里增加了生成随机数的种子
     public static int getRandomNum(int start, int end, long seed) {
 
         return start + new Random(seed).nextInt(end - start + 1);

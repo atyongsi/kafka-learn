@@ -1,7 +1,5 @@
-package org.example.mock.db.util;
+package org.example.mock.util;
 
-
-import org.apache.spark.sql.catalyst.expressions.Rand;
 
 /**
  * Created by atyongsi@163.com on 2020/8/27

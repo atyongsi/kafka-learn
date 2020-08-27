@@ -1,4 +1,4 @@
-package org.example.mock.db.util;
+package org.example.mock.util;
 
 import java.util.Random;
 

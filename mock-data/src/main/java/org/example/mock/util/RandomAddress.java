@@ -1,6 +1,6 @@
-package org.example.mock.db.util;
+package org.example.mock.util;
 
-import static org.example.mock.db.util.RandomAdministrativeArea.getAdministrativeArea;
+import static org.example.mock.util.RandomAdministrativeArea.getAdministrativeArea;
 
 /**
  * Created by atyongsi@163.com on 2020/8/27

@@ -1,6 +1,4 @@
-package org.example.mock.db.util;
-
-import org.apache.kafka.common.protocol.types.Field;
+package org.example.mock.util;
 
 /**
  * Created by atyongsi@163.com on 2020/8/27

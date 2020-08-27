@@ -1,13 +1,10 @@
 package org.example.mock.db.util;
 
-import java.util.Random;
-
 /**
  * Created by atyongsi@163.com on 2020/8/26
  * Description:随机生成中文姓名,
  * 代码源于网络 由kingYiFan整理  create2019/05/24
  */
-
 public class RandomName {
 
     public static String getName() {
